@@ -16,7 +16,6 @@ included-patches = "'Custom branding' 'Visual preferences icons for YouTube' 'Re
 patcher-args = """\
   -OdarkThemeBackgroundColor=#FF111111 \
   -OlightThemeBackgroundColor=#FFF9F9F9 \
-  -OappName=YouTube ReVenced
 """
 
 [YouTube-Music-Extended]
