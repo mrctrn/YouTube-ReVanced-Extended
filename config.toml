@@ -23,6 +23,6 @@ patcher-args = """\
 app-name = "YouTube Music"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
-arch = "arm64-v8a"dfdf
+arch = "arm64-v8a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 included-patches = "'Visual preferences icons for YouTube Music' 'Return YouTube Username'"
