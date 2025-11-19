@@ -1,6 +1,6 @@
 {
-  "version": "v8.30.54 (patches dev.6)",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/mrctrn/YouTube-ReVanced-Extended/releases/download/1/youtube-music-revanced-extended-magisk-v8.30.54-arm-v7a.zip",
+  "version": "v8.30.54 (patches dev.2)",
+  "versionCode": 2,
+  "zipUrl": "https://github.com/mrctrn/YouTube-ReVanced-Extended/releases/download/2/youtube-music-revanced-extended-magisk-v8.30.54-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/mrctrn/YouTube-ReVanced-Extended/update/build.md"
 }
