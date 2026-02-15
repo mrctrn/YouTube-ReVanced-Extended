@@ -24,6 +24,7 @@ jobs:
         with:
           fetch-depth: 0
           submodules: true
+          ref: custom
 
       - name: Update config
         if: ${{ inputs.from_ci }}
