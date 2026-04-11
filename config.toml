@@ -15,6 +15,9 @@ archive-dlurl = "https://archive.org/download/crimsonman/apks/com.google.android
 # uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 addon-patches = "bin/update-check.mpp"
+excluded-patches = "'Custom header for YouTube'"
+included-patches = "'Visual preferences icons for YouTube' 'Return YouTube Username'"
+patcher-args = "-e Theme -OdarkThemeBackgroundColor=#FF121212 -OlightThemeBackgroundColor=#FFF9F9F9 -e 'Custom branding icon for YouTube' -OappIcon=revancify_red -e 'Custom branding name for YouTube' -OappName='RVX YouTube'"
 
 [YouTube-Music-Extended]
 enabled = true
@@ -28,8 +31,10 @@ patches-version = "dev"
 archive-dlurl = "https://archive.org/download/crimsonman/apks/com.google.android.apps.youtube.music"
 # uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-included-patches = "'Disable music video in album'" 
+excluded-patches = "'Custom header for YouTube Music'"
+included-patches = "'Disable music video in album' 'Visual preferences icons for YouTube Music' 'Return YouTube Username'"
 addon-patches = "bin/update-check.mpp"
+patcher-args = "-e 'Custom branding icon for YouTube Music' -OappIcon=revancify_red -e 'Custom branding name for YouTube Music' -OappName='RVX YT Music'"
 
 [YouTube-Morphe]
 enabled = true
