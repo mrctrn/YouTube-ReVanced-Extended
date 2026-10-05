@@ -1,3 +1,8 @@
+## YouTube Morphe
+* **Version:** v21.16.256 (p1.46.0-dev.3-dualvot.8.5.3 b9)
+* **Release:** [#9](https://github.com/mrctrn/YouTube-ReVanced-Extended/releases/tag/9)
+
+### Release Notes:
 YouTube-Extended: 21.13.164  
 YouTube-Morphe: 21.16.256  
 YouTube-Music-Extended (arm64-v8a): 9.15.51  

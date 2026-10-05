@@ -1,3 +1,8 @@
+## YouTube ReVanced Extended
+* **Version:** v21.13.164 (p4.3.1-dev.1 b9)
+* **Release:** [#9](https://github.com/mrctrn/YouTube-ReVanced-Extended/releases/tag/9)
+
+### Release Notes:
 YouTube-Extended: 21.13.164  
 YouTube-Morphe: 21.16.256  
 YouTube-Music-Extended (arm64-v8a): 9.15.51  

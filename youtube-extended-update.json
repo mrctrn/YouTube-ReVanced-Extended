@@ -1,6 +1,6 @@
 {
-  "version": "v20.51.39 (patches 4.2.0.mpp)",
-  "versionCode": 8,
-  "zipUrl": "https://github.com/mrctrn/YouTube-ReVanced-Extended/releases/download/8/youtube-revanced-extended-module-v20.51.39-all.zip",
-  "changelog": "https://raw.githubusercontent.com/mrctrn/YouTube-ReVanced-Extended/update/build.md"
+  "version": "v21.13.164 (p4.3.1-dev.1 b9)",
+  "versionCode": 2026100501,
+  "zipUrl": "https://github.com/mrctrn/YouTube-ReVanced-Extended/releases/download/9/youtube-revanced-extended-module-v21.13.164-all.zip",
+  "changelog": "https://raw.githubusercontent.com/mrctrn/YouTube-ReVanced-Extended/update/youtube-extended-changelog.md"
 }

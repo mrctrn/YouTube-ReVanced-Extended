@@ -1,6 +1,6 @@
 {
-  "version": "v9.15.51 (patches dev.9.mpp)",
-  "versionCode": 8,
-  "zipUrl": "https://github.com/mrctrn/YouTube-ReVanced-Extended/releases/download/8/youtube-music-morphe-module-v9.15.51-arm-v7a.zip",
-  "changelog": "https://raw.githubusercontent.com/mrctrn/YouTube-ReVanced-Extended/update/build.md"
+  "version": "v9.20.53 (p1.46.0-dev.6 b9)",
+  "versionCode": 2026100501,
+  "zipUrl": "https://github.com/mrctrn/YouTube-ReVanced-Extended/releases/download/9/youtube-music-morphe-module-v9.20.53-arm-v7a.zip",
+  "changelog": "https://raw.githubusercontent.com/mrctrn/YouTube-ReVanced-Extended/update/youtube-music-morphe (arm-v7a)-changelog.md"
 }
